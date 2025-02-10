@@ -1,16 +1,20 @@
-# whatsapp_clone
+# WhatsApp Clone 🚀  
 
-A new Flutter project.
+A WhatsApp clone built with **Flutter**. The **responsive UI** is completed, and the next phase is to implement full functionality using **Firebase**. The app uses **Riverpod** for state management.  
 
-## Getting Started
+## Features (Completed ✅)  
+- 📱 **Responsive UI** for different screen sizes  
 
-This project is a starting point for a Flutter application.
+## Upcoming Features (In Progress 🚧)  
+- 🔥 **Firebase Authentication** (Google Sign-In, Phone OTP)  
+- 💬 **Real-time Chat** using Firebase Firestore  
+- 📞 **Voice & Video Calls** with WebRTC  
+- 🌙 **Dark Mode Support**  
+- 📷 **Media Sharing (Images, Videos, Docs)**  
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack  
+- **Flutter** (Front-end)  
+- **Firebase** (Auth, Firestore, Storage)  
+- **Riverpod** (State Management)  
+- **WebRTC** (Calls)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
